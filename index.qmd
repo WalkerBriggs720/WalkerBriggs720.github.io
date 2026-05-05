@@ -1,5 +1,5 @@
 ---
-title: "Walker's Blog"
+title: "Walker Briggs' Blog"
 listing:
   contents: posts
   feed: true
@@ -11,3 +11,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+Welcome to the data discovery website created by Walker Briggs, a graduating senior from Sewanee: The University of The South. Diverse and complex groups of data sets were incorporated throughout each and every project. The goal of these projects is to successfully interpret and visualize important data both on the local scale, and the global scale.

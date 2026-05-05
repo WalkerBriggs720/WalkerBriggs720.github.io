@@ -5,66 +5,142 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>blog</title>
+<title>Blog</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 21 Apr 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <title>How Gender Equality Impacts Global Quality of Education (Pt.2)</title>
+  <dc:creator>Walker Briggs</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-05-data-story-6/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
+<p>This project is a continuation of (Pt.1). Unlike the previous data story, this project dives deeper into data visualization and analysis. The same sustainable development goals are used as Pt.1 which are SDG 4 (quality education), and SDG 5 (gender equality). This project relies on a diverse group of data sets including: (1) Global literacy rates from 1600 to present day, (2) Share of population using the internet in 2025, (3) Government spending on education as a share of GDP in 2024, (4) Total male enrollment in secondary school in developing countries, (5) Total female enrollment in secondary school in developing countries, (6) Expected years of schooling among boys (developed and undeveloped), (7) Expected years of schooling among girls (developed and undeveloped), (8) Number of R&amp;D (research and development) researchers per million people in 2023 (developed and undeveloped). A key insight is that though female enrollment in primary schools have increased over time, there are still large gender gaps found within the education systems.</p>
+<p>Github Pages Site: file:///Users/walkerbriggs/Documents/repos/Data_Story_6/docs/introduction-to-data-story-6.html</p>
+<p>(Github Repo Link: <a href="https://github.com/WalkerBriggs720/Data_Story_6" class="uri">https://github.com/WalkerBriggs720/Data_Story_6</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/images/ds6.jpg" class="img-fluid figure-img"></p>
+<figcaption>Expected years of schooling among girls.</figcaption>
+</figure>
 </div>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Tue, 21 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://your-website-url.example.com/posts/2026-05-05-data-story-6/</guid>
+  <pubDate>Tue, 28 Apr 2026 05:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <title>Wildlife Seen in the Duration of One Hour While Sitting in Manigault Park, Sewanee</title>
+  <dc:creator>Walker Briggs</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-05-data-story-5/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>This project integrated the use of a shiny data entry app and pushed me out of my comfort zone. The goal of this project was to collect individual and personalized data. After much consideration, I decided to build an app that tracks the amount of wildlife seen while sitting for one hour in Manigault Park, Sewanee. I created five buttons that include all animals seen during the duration of one hour. These data variables include: (1) Birds, (2) Squirrels, (3) Dogs, (4) Flying Insects, (5) Crawling Insects. The results were unexpected yet exciting. (Results: 15 birds, 10 squirrels, 2 dogs, 11 flying insects, and 9 crawling insects.</p>
+<p>Github Pages Site: <a href="https://walkerbriggs720.github.io/Data-Story-5/"><strong>https://walkerbriggs720.github.io/Data-Story-5/</strong></a></p>
+<p>(Github Repo Link: <a href="https://github.com/WalkerBriggs720/Data-Story-5" class="uri">https://github.com/WalkerBriggs720/Data-Story-5</a>)</p>
+<p>Link to Screenshare: <a href="https://drive.google.com/file/d/1SbLWBQmcShKNXpY25_uT27QuhAZo5jpu/view?usp=sharing" class="uri">https://drive.google.com/file/d/1SbLWBQmcShKNXpY25_uT27QuhAZo5jpu/view?usp=sharing</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/images/ds5.jpg" class="img-fluid figure-img"></p>
+<figcaption>Squirrel</figcaption>
+</figure>
+</div>
 
 
 
  ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Sat, 18 Apr 2026 05:00:00 GMT</pubDate>
+  <guid>https://your-website-url.example.com/posts/2026-05-05-data-story-5/</guid>
+  <pubDate>Tue, 21 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>How Gender Equality Impacts Global Quality of Education (Pt.1)</title>
+  <dc:creator>Walker Briggs</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The goal of this project is to shed light on very clear gender inequalities that are present throughout the international community. More specifically, this project focuses on the gender discrepancies within education and access to opportunities. This project incorporates two sustainable development goals which are SDG 4 (quality education), and SDG 5 (gender equality). This data story is the prerequisite for the final data story. A study conducted in 2023 by the United Nations found that around 272 million children were still not enrolled in primary or secondary school. Many data sets are explored throughout this project such as literacy rates, government spending on education as a share of GDP in the year 2024, etc.</p>
+<p>Github Pages Site: <a href="file:///Users/walkerbriggs/Documents/repos/Data_Story_6/docs/sdg-4-quality-education.html" class="uri">file:///Users/walkerbriggs/Documents/repos/Data_Story_6/docs/sdg-4-quality-education.html</a></p>
+<p>(Github Repo Link: <a href="https://github.com/WalkerBriggs720/Data_Story_6" class="uri">https://github.com/WalkerBriggs720/Data_Story_6</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/images/ds3.jpg" class="img-fluid figure-img"></p>
+<figcaption>Share of people using the internet (2025).</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</guid>
+  <pubDate>Thu, 09 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>How Armed Conflict Impacts Extreme Poverty Levels, Malnourishment, and Freshwater Resources</title>
+  <dc:creator>Walker Briggs</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This data story analyzes the potential connection between how regional armed conflict impacts extreme poverty rates, malnutrition, and accessibility to clean drinking water. A multitude of data sets were explored including: (1) GDP per capita for both high earning and low earning countries, (2) Share of people who are malnourished in developing countries, (3) Share of people using managed and safe drinking water, (4) Deaths as a result of armed conflict. A few key insights include: malnutrition and extreme poverty have a clear connection, the number of people using safe drinking water has increased since 2000 for most impoverished countries, and impacts from armed conflict are complex yet present.</p>
+<p>Github Pages Site: <a href="https://walkerbriggs720.github.io/Data-Story-2/"><strong>https://walkerbriggs720.github.io/Data-Story-2/</strong></a></p>
+<p>(Github Repo Link: <a href="https://github.com/WalkerBriggs720/Data-Story-2" class="uri">https://github.com/WalkerBriggs720/Data-Story-2</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/images/ds2.jpg" class="img-fluid figure-img"></p>
+<figcaption>Share of people using managed/safe drinking water in the DRC, Malawi, and Mozambique.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</guid>
+  <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The Energy Giants: How the United States, China, and India Shape the Global Energy Transition</title>
+  <dc:creator>Walker Briggs</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This first data story analyzes how well the three largest CO2 polluting countries (U.S, China, and India) are integrating renewable energy sources into their economies. This project incorporates multiple sustainable development goals such as SDG 7 (affordable and clean energy), SDG 9 (industry, innovation and infrastructure), and SDG 11 (sustainable cities and communities). A variety of data sets are explored including: (1) Annual CO2 emissions for the U.S, China, and India from 1800 to 2025, (2) GDP per capita in the U.S, China, and India since 1950, (3) Cost of utilizing renewable energies over time. The data story goes more into depth regarding specific sources of renewable energy such as solar energy, wind energy, hydro electric energy, etc. A key insight is that though China is the largest CO2 emitting country out of all nations, the adoption and implementation of renewable energies is also highest in China.</p>
+<p>Github Pages Site: <a href="https://walkerbriggs720.github.io/Data_Story_1/"><strong>https://walkerbriggs720.github.io/Data_Story_1/</strong></a></p>
+<p>(Github Repo Link: <a href="https://github.com/WalkerBriggs720/Data_Story_1" class="uri">https://github.com/WalkerBriggs720/Data_Story_1</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/images/ds1.jpg" class="img-fluid figure-img" alt="This data comes from Our World In Data."></p>
+<figcaption>Annual CO2 emissions for the U.S, China, and India from 1800 to 2025.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</guid>
+  <pubDate>Tue, 17 Feb 2026 06:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

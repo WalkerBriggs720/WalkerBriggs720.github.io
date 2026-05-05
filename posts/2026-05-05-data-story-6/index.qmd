@@ -1,0 +1,15 @@
+---
+title: "How Gender Equality Impacts Global Quality of Education (Pt.2)"
+author: "Walker Briggs"
+description: ""
+date: "2026-04-28"
+categories: []
+---
+
+This project is a continuation of (Pt.1). Unlike the previous data story, this project dives deeper into data visualization and analysis. The same sustainable development goals are used as Pt.1 which are SDG 4 (quality education), and SDG 5 (gender equality). This project relies on a diverse group of data sets including: (1) Global literacy rates from 1600 to present day, (2) Share of population using the internet in 2025, (3) Government spending on education as a share of GDP in 2024, (4) Total male enrollment in secondary school in developing countries, (5) Total female enrollment in secondary school in developing countries, (6) Expected years of schooling among boys (developed and undeveloped), (7) Expected years of schooling among girls (developed and undeveloped), (8) Number of R&D (research and development) researchers per million people in 2023 (developed and undeveloped). A key insight is that though female enrollment in primary schools have increased over time, there are still large gender gaps found within the education systems.
+
+Github Pages Site: file:///Users/walkerbriggs/Documents/repos/Data_Story_6/docs/introduction-to-data-story-6.html
+
+(Github Repo Link: <https://github.com/WalkerBriggs720/Data_Story_6>)
+
+![Expected years of schooling among girls.](/images/ds6.jpg)

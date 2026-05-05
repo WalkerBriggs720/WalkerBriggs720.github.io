@@ -1,0 +1,15 @@
+---
+title: "The Energy Giants: How the United States, China, and India Shape the Global Energy Transition"
+author: "Walker Briggs"
+description: ""
+date: "2026-02-17"
+categories: []
+---
+
+This first data story analyzes how well the three largest CO2 polluting countries (U.S, China, and India) are integrating renewable energy sources into their economies. This project incorporates multiple sustainable development goals such as SDG 7 (affordable and clean energy), SDG 9 (industry, innovation and infrastructure), and SDG 11 (sustainable cities and communities). A variety of data sets are explored including: (1) Annual CO2 emissions for the U.S, China, and India from 1800 to 2025, (2) GDP per capita in the U.S, China, and India since 1950, (3) Cost of utilizing renewable energies over time. The data story goes more into depth regarding specific sources of renewable energy such as solar energy, wind energy, hydro electric energy, etc. A key insight is that though China is the largest CO2 emitting country out of all nations, the adoption and implementation of renewable energies is also highest in China.
+
+Github Pages Site: [**https://walkerbriggs720.github.io/Data_Story_1/**](https://walkerbriggs720.github.io/Data_Story_1/)
+
+(Github Repo Link: <https://github.com/WalkerBriggs720/Data_Story_1>)
+
+![Annual CO2 emissions for the U.S, China, and India from 1800 to 2025.](/images/ds1.jpg){fig-alt="This data comes from Our World In Data."}

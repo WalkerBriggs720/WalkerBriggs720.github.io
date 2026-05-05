@@ -1,0 +1,17 @@
+---
+title: "Wildlife Seen in the Duration of One Hour While Sitting in Manigault Park, Sewanee"
+author: "Walker Briggs"
+description: ""
+date: "2026-04-21"
+categories: []
+---
+
+This project integrated the use of a shiny data entry app and pushed me out of my comfort zone. The goal of this project was to collect individual and personalized data. After much consideration, I decided to build an app that tracks the amount of wildlife seen while sitting for one hour in Manigault Park, Sewanee. I created five buttons that include all animals seen during the duration of one hour. These data variables include: (1) Birds, (2) Squirrels, (3) Dogs, (4) Flying Insects, (5) Crawling Insects. The results were unexpected yet exciting. (Results: 15 birds, 10 squirrels, 2 dogs, 11 flying insects, and 9 crawling insects.
+
+Github Pages Site: [**https://walkerbriggs720.github.io/Data-Story-5/**](https://walkerbriggs720.github.io/Data-Story-5/)
+
+(Github Repo Link: <https://github.com/WalkerBriggs720/Data-Story-5>)
+
+Link to Screenshare: <https://drive.google.com/file/d/1SbLWBQmcShKNXpY25_uT27QuhAZo5jpu/view?usp=sharing>
+
+![Squirrel](/images/ds5.jpg)

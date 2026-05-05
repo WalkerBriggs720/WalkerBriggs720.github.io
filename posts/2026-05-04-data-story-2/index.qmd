@@ -1,0 +1,15 @@
+---
+title: "How Armed Conflict Impacts Extreme Poverty Levels, Malnourishment, and Freshwater Resources"
+author: "Walker Briggs"
+description: ""
+date: "2026-03-03"
+categories: []
+---
+
+This data story analyzes the potential connection between how regional armed conflict impacts extreme poverty rates, malnutrition, and accessibility to clean drinking water. A multitude of data sets were explored including: (1) GDP per capita for both high earning and low earning countries, (2) Share of people who are malnourished in developing countries, (3) Share of people using managed and safe drinking water, (4) Deaths as a result of armed conflict. A few key insights include: malnutrition and extreme poverty have a clear connection, the number of people using safe drinking water has increased since 2000 for most impoverished countries, and impacts from armed conflict are complex yet present.
+
+Github Pages Site: [**https://walkerbriggs720.github.io/Data-Story-2/**](https://walkerbriggs720.github.io/Data-Story-2/)
+
+(Github Repo Link: <https://github.com/WalkerBriggs720/Data-Story-2>)
+
+![Share of people using managed/safe drinking water in the DRC, Malawi, and Mozambique.](/images/ds2.jpg)

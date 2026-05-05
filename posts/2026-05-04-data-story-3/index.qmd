@@ -1,0 +1,15 @@
+---
+title: "How Gender Equality Impacts Global Quality of Education (Pt.1)"
+author: "Walker Briggs"
+description: ""
+date: "2026-04-09"
+categories: []
+---
+
+The goal of this project is to shed light on very clear gender inequalities that are present throughout the international community. More specifically, this project focuses on the gender discrepancies within education and access to opportunities. This project incorporates two sustainable development goals which are SDG 4 (quality education), and SDG 5 (gender equality). This data story is the prerequisite for the final data story. A study conducted in 2023 by the United Nations found that around 272 million children were still not enrolled in primary or secondary school. Many data sets are explored throughout this project such as literacy rates, government spending on education as a share of GDP in the year 2024, etc.
+
+Github Pages Site: <file:///Users/walkerbriggs/Documents/repos/Data_Story_6/docs/sdg-4-quality-education.html>
+
+(Github Repo Link: <https://github.com/WalkerBriggs720/Data_Story_6>)
+
+![Share of people using the internet (2025).](/images/ds3.jpg)
